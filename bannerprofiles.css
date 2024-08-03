@@ -13,6 +13,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/263tBWe.gif);
 }
+/*Медалистка*/
+[href*="characters/187723-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ADEzplo.jpg);
+}
+[href*="characters/187723-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/WwhREUG.png);
+}
 /* Сосочка Конана */
 [href*="characters/1748-"] {
  --show-default: 0;
@@ -665,6 +674,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/tykTagY.gif);
 }
+/*Чии-чан*/
+[href*="characters/110443-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/iGHD8Jz.jpg);
+}
+[href*="characters/110443-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/tykTagY.gif);
+}
 /* Rance */
 [href*="characters/27596-"] {
  --show-default: 0;
@@ -934,10 +952,18 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/vVlZHND.jpg);
 }
+[href*="animes/96-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/qS6qeSU.jpg); 
+}
 /* Браверн */
 [href*="animes/55528-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/GjiDrwv.jpg);
+}
+[href*="animes/55528-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/0019Bfz.jpg); 
 }
 /* Данжн Меши */
 [href*="animes/52701-"] {
@@ -984,6 +1010,10 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/kjFfuY7.jpg);
 }
+[href*="animes/23327-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/DJrASEC.jpg); 
+}
 /* Bastard!! */
 [href*="mangas/611-"] {
  --show-default: 0;
@@ -993,6 +1023,10 @@
 [href*="animes/890-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/sODa9ev.jpg);
+}
+[href*="animes/23327-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/DJrASEC.jpg); 
 }
 /* SECOND SEASON */
 [href*="animes/x17074"] {
@@ -1028,10 +1062,32 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/wmN9QpV.png);
 }
+/* Медалистка */
+[href*="mangas/129621-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/wFFnlWB.jpg);
+}
+[href*="mangas/129621-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/AhCgzmq.png);
+}
+/* Балрум э йокосо */
+[href*="mangas/48347-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/l1lgXzP.jpg);
+}
+[href*="mangas/48347-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Yfb5e84.png);
+}
 /* Blue Giant */
 [href*="mangas/85719-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/R6BKmsD.jpg);
+}
+[href*="mangas/85719-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/SgKdooN.png);
 }
 /* Kozure Ookami */
 [href*="mangas/904-"] {
@@ -1072,6 +1128,10 @@
 [href*="animes/10588-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/eUjPKrl.jpg);
+}
+[href*="animes/10588-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/KbfxlM5.jpg); 
 }
 /* GTO */
 [href*="mangas/336-"] {
@@ -1254,6 +1314,24 @@
  --custom-image: url(https://imgur.com/UHmJjBg.jpg);
 }
 [href*="characters/153048-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/T1f4eHW.png);
+}
+/* Тсукаса Медалист */
+[href*="characters/210882-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/oeOfdk3.jpg);
+}
+[href*="characters/210882-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/wTsC9Po.png);
+}
+/* Канаме Сенгоку */
+[href*="characters/110435-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/clM3gyH.jpg);
+}
+[href*="characters/110435-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/T1f4eHW.png);
 }
@@ -1968,6 +2046,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/1FzluJg.jpg);
 }
+[href*="animes/50183-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/6nzJXGH.jpg);
+}
 /* DOREMI */
 [href*="animes/353-"] {
  --show-default: 0;
@@ -1977,6 +2059,10 @@
 [href*="animes/4981-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/Lzw1tk3.jpg);
+}
+[href*="animes/4981-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/bNssu2Q.jpg);
 }
 /* DDD */
 [href*="ranobe/15486-"] {
