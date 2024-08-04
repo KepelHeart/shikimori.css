@@ -2084,3 +2084,12 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/6vAwshv.jpg);
 }
+/*18*/
+[href*="characters/4318-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/h92ZYM7.jpg);
+}
+[href*="characters/4318-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/AFFAJXL.gif);
+}
