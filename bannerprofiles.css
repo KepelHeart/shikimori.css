@@ -949,7 +949,11 @@
 /* Сугита */
 [href*="people/2-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/9zTPmAS.jpg);
+ --custom-image: url(https://imgur.com/IweEr7t.jpg);
+}
+[href*="people/2-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
 }
 /* Сакурай */
 [href*="people/79-"] {
@@ -996,6 +1000,78 @@
 [href*="people/1-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/48ecxrf.jpg); 
+}
+/* Кайда */
+[href*="people/428-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/IweEr7t.jpg);
+}
+[href*="people/428-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
+}
+/* Фуживара */
+[href*="people/63-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/IweEr7t.jpg);
+}
+[href*="people/63-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
+}
+/* Ханазава */
+[href*="people/185-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/IweEr7t.jpg);
+}
+[href*="people/185-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
+}
+/* Фумихико */
+[href*="people/284-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/IweEr7t.jpg);
+}
+[href*="people/284-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
+}
+/* Ямадера */
+[href*="people/11-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/NdAmEyP.jpg);
+}
+[href*="people/11-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Pj2mxdm.jpg); 
+}
+/* Тсуда */
+[href*="people/591-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/1MFLz6G.jpg);
+}
+[href*="people/591-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/qnX5ZMF.jpg); 
+}
+/* Шиничиро */
+[href*="people/22-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/vNUMa7J.jpg);
+}
+[href*="people/22-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/d87xLWo.jpg); 
+}
+/* Вакамото */
+[href*="people/84-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/hdF2CAz.jpg);
+}
+[href*="people/84-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Gpqqxob.jpg); 
 }
 /* МАНГА И РАНОБЭ ЧТИВО КОРОЧЕ */
 /* ПС */
