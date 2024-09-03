@@ -1010,6 +1010,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/slzWdSc.jpg); 
 }
+/* Эри Китамура */
+[href*="people/413-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/5UtYuXW.jpg);
+}
+[href*="people/413-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Aj7upbn.jpg); 
+}
 /* Фуживара */
 [href*="people/63-"] {
  --show-default: 0;
