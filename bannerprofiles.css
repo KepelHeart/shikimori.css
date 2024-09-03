@@ -797,6 +797,10 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/TiEy3RQ.jpg);
 }
+[href*="people/257-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/W0yboZi.jpg); 
+}
 /* Сусуму Хирасава */
 [href*="people/5750-"] {
  --show-default: 0;
@@ -806,6 +810,10 @@
 [href*="people/1911-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/IwOlF2W.jpg);
+}
+[href*="people/1911-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/PcXh8nl.jpg); 
 }
 /* Канье Вест */
 [href*="people/21059-"] {
@@ -820,6 +828,10 @@
 [href*="people/96-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/ojSreNV.jpg);
+}
+[href*="people/96-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/3EiHDS5.jpg); 
 }
 /* Наганума */
 [href*="people/8582-"] {
@@ -836,15 +848,27 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/mRa855D.jpg);
 }
+[href*="people/10-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/kaSiFqm.jpg); 
+}
 /* ИНАДА ЛЮБИМКА */
 [href*="people/395-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/2QTFppD.jpg);
+ --custom-image: url(https://imgur.com/vMcHafQ.jpg);
+}
+[href*="people/395-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/2QTFppD.jpg); 
 }
 /* Камия */
 [href*="people/118-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/qlNSEe0.jpg);
+ --custom-image: url(https://imgur.com/QMBhxwo.jpg);
+}
+[href*="people/118-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/qlNSEe0.jpg); 
 }
 /* Сорачи */
 [href*="people/1904-"] {
@@ -854,12 +878,20 @@
 /* Суда51 */
 [href*="people/9477-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/t3of7Dk.jpg);
+ --custom-image: url(https://imgur.com/OlqCGrw.jpg);
+}
+[href*="people/9477-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/t3of7Dk.jpg); 
 }
 /* Яо */
 [href*="people/131-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/IDKSsTD.jpg);
+ --custom-image: url(https://imgur.com/hbGQQxj.jpg);
+}
+[href*="people/131-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/kVbWrML.jpg); 
 }
 /* Умакоши */
 [href*="people/6458-"] {
@@ -869,7 +901,11 @@
 /* Ишиватари */
 [href*="people/11278-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/girIPBl.jpg);
+ --custom-image: url(https://imgur.com/dPCtuPg.jpg);
+}
+[href*="people/11278-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/4hFGZcl.jpg); 
 }
 /* Йоко Канно */
 [href*="people/508-"] {
@@ -901,6 +937,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/s9F8Ret.jpg);
 }
+[href*="people/56246-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/vRuDAQU.jpg); 
+}
 /* Акира Торяима */
 [href*="people/1901-"] {
  --show-default: 0;
@@ -914,17 +954,29 @@
 /* Сакурай */
 [href*="people/79-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/jUGDGDp.jpg);
+ --custom-image: url(https://imgur.com/V44UyE7.jpg);
 }
-/* Сакурай */
+[href*="people/79-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/rzJdn4Q.jpg); 
+}
+/* Курода */
 [href*="people/1122-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/UMPnQFP.jpg);
+ --custom-image: url(https://imgur.com/nQYMDZX.jpg);
+}
+[href*="people/1122-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/qYcDQrl.jpg); 
 }
 /* Саваширо */
 [href*="people/99-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/jhJBCJj.jpg);
+ --custom-image: url(https://imgur.com/4tR0pep.jpg);
+}
+[href*="people/99-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/jhJBCJj.jpg); 
 }
 /* Окамура */
 [href*="people/25727-"] {
@@ -939,7 +991,11 @@
 /* Томоказу Секи */
 [href*="people/1-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/48ecxrf.jpg);
+ --custom-image: url(https://imgur.com/Ytwi87G.jpg);
+}
+[href*="people/1-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/48ecxrf.jpg); 
 }
 /* МАНГА И РАНОБЭ ЧТИВО КОРОЧЕ */
 /* ПС */
