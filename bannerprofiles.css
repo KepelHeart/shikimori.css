@@ -1082,6 +1082,224 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/Gpqqxob.jpg); 
 }
+/* Йошино */
+[href*="people/283-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/QYoHctU.jpg);
+}
+[href*="people/283-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ar3NGof.jpg); 
+}
+/* Такая Хаши */
+[href*="people/5427-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/GpMDlcL.jpg);
+}
+[href*="people/5427-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/xTx0gYB.jpg); 
+}
+/* Кошимизу Ами */
+[href*="people/70-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/7NZoQwf.jpg);
+}
+[href*="people/70-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/KsMFm72.jpg); 
+}
+/* Кишов */
+[href*="people/196-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/EdbgMIQ.jpg);
+}
+[href*="people/196-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/k1s9BHV.jpg); 
+}
+/* Наката */
+[href*="people/91-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/sZ2EJ09.jpg);
+}
+[href*="people/91-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/DcK4ZEj.jpg); 
+}
+/* Юичи Накамура */
+[href*="people/513-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/baPu5K9.jpg);
+}
+[href*="people/513-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/HvupvTR.jpg); 
+}
+/* Ватанабэ */
+[href*="people/2009-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/YYrylw3.jpg);
+}
+[href*="people/2009-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/7b1P7rF.jpg); 
+}
+/* Такаматсу */
+[href*="people/5152-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/45Qp4Lc.jpg);
+}
+[href*="people/5152-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/YPVKbeJ.jpg); 
+}
+/* Итамура */
+[href*="people/15639-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/38bVd8l.jpg);
+}
+[href*="people/15639-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/HvupvTR.jpg); 
+}
+/* Ямаока */
+[href*="people/51637-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/4X29wu1.jpg);
+}
+[href*="people/51637-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/PGHAi9q.jpg); 
+}
+/* Юаса */
+[href*="people/5068-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/IpQYfPe.jpg);
+}
+[href*="people/5068-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/B5CzXTq.jpg); 
+}
+/* Нагамине */
+[href*="people/12867-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/rKpEGne.jpg);
+}
+/* Обари */
+[href*="people/5660-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ZVyEbnN.jpg);
+}
+[href*="people/5660-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/jUiqwu5.jpg); 
+}
+/* Соеджима */
+[href*="people/12279-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ITaXQsm.jpg);
+}
+[href*="people/12279-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Mc2fIYy.jpg); 
+}
+/* Канеко */
+[href*="people/33589-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/6G5AKnX.jpg);
+}
+[href*="people/33589-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/KNw6D4O.jpg); 
+}
+/* Кумета */
+[href*="people/2662-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/dMLQiPq.jpg);
+}
+[href*="people/2662-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/EMTQNUY.jpg); 
+}
+/* Тсутому Такахаши */
+[href*="people/2360-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ZVyEbnN.jpg);
+}
+[href*="people/2360-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/jUiqwu5.jpg); 
+}
+/* Умино Чика */
+[href*="people/2891-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/F9N7cUu.jpg);
+}
+[href*="people/2891-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/0g5S8W8.jpg); 
+}
+/* Нагай */
+[href*="people/2992-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/x51pjE1.jpg);
+}
+[href*="people/2992-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/1l1rnkm.jpg); 
+}
+/* Мори */
+[href*="people/18495-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/2dueZzv.jpg);
+}
+[href*="people/18495-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/wFbRUQy.jpg); 
+}
+/* Учикоши */
+[href*="people/36854-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ZVyEbnN.jpg);
+}
+[href*="people/36854-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/jUiqwu5.jpg); 
+}
+/* Хирамото */
+[href*="people/4660-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/nQxn83S.jpg);
+}
+/* Ясухико */
+[href*="people/2220-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/6XQxyDK.jpg);
+}
+/* Накамура */
+[href*="people/7883-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/eAmAA7e.jpg);
+}
+[href*="people/7883-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/zXuYJoB.jpg); 
+}
+/* Кину Нишимура */
+[href*="people/24539-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/OTnvcye.jpg);
+}
+/* Юске Кодзаки */
+[href*="people/2832-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/KTN0wzC.jpg);
+}
+[href*="people/2832-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/J8yK8T5.jpg); 
+}
 /* МАНГА И РАНОБЭ ЧТИВО КОРОЧЕ */
 /* ПС */
 [href*="mangas/25297-"] {
