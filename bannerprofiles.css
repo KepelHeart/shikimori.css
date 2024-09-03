@@ -1225,11 +1225,11 @@
 /* Тсутому Такахаши */
 [href*="people/2360-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/ZVyEbnN.jpg);
+ --custom-image: url(https://imgur.com/XhzvgKT.jpg);
 }
 [href*="people/2360-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/jUiqwu5.jpg); 
+--custom-image: url(https://imgur.com/jZHUlnQ.jpg); 
 }
 /* Умино Чика */
 [href*="people/2891-"] {
@@ -1261,11 +1261,11 @@
 /* Учикоши */
 [href*="people/36854-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/ZVyEbnN.jpg);
+ --custom-image: url(https://imgur.com/zoJq1ZM.jpg);
 }
 [href*="people/36854-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/jUiqwu5.jpg); 
+--custom-image: url(https://imgur.com/nfTReFo.jpg); 
 }
 /* Хирамото */
 [href*="people/4660-"] {
