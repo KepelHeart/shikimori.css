@@ -1159,10 +1159,6 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/38bVd8l.jpg);
 }
-[href*="people/15639-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/HvupvTR.jpg); 
-}
 /* Ямаока */
 [href*="people/51637-"] {
  --show-default: 0;
