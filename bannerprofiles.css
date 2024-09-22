@@ -1400,7 +1400,7 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/jNMr9Sy.jpg);
 }
-[href*="ranobe/z1342-"] {
+[href*="ranobe/z1342-"]:hover {
  --show-default: 0;
  --custom-image: url(https://imgur.com/Yl9bKiu.jpg);
 }
@@ -1419,7 +1419,7 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/6O7StUH.jpg);
 }
-[href*="ranobe/134181-"] {
+[href*="ranobe/134181-"]:hover {
  --show-default: 0;
  --custom-image: url(https://imgur.com/K0YwGzW.jpg);
 }
@@ -1470,7 +1470,7 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/inCI2V1.jpg);
 }
-[href*="mangas/91461-"] {
+[href*="mangas/91461-"]:hover {
  --show-default: 0;
  --custom-image: url(https://imgur.com/KWTMv6Z.jpg);
 }
@@ -1479,7 +1479,7 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/ft3YvyT.jpg);
 }
-[href*="ranobe/26027-"] {
+[href*="ranobe/26027-"]:hover {
  --show-default: 0;
  --custom-image: url(https://imgur.com/6iDTJ1t.jpg);
 }
@@ -2557,6 +2557,24 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/xf2ly0k.jpg);
 }
+/* Райдо */
+[href*="ranobe/76973-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/dQ6ShKt.jpg);
+}
+[href*="ranobe/76973-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/VclldZz.jpg);
+}
+/* Секай */
+[href*="ranobe/21115-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/fhTVNk0.jpg);
+}
+[href*="ranobe/21115-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/GpRlkmF.jpg);
+}
 /* Suikoden */
 [href*="mangas/36097-"] {
  --show-default: 0;
@@ -2570,6 +2588,42 @@
 [href*="mangas/z85-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/l5GBHqo.jpg);
+}
+/* Bartender */
+[href*="mangas/3713-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/C6LQtJj.jpg);
+}
+[href*="mangas/3713-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/JgwqDGS.jpg);
+}
+/* Ran */
+[href*="mangas/22986-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/XWUVOoW.jpg);
+}
+[href*="mangas/22986-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/7N6eZPK.jpg);
+}
+/* Veil */
+[href*="mangas/132678-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ALZcy5q.jpg);
+}
+[href*="mangas/132678-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/duucf7g.jpg);
+}
+/* Zamurai */
+[href*="mangas/15306-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/37ONpRC.jpg);
+}
+[href*="mangas/15306-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Ra8hybS.jpg);
 }
 /* Баки */
 [href*="mangas/7760-"] {
@@ -2588,4 +2642,22 @@
 [href*="characters/4318-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/AFFAJXL.gif);
+}
+/*Марин Китагава*/
+[href*="characters/166439-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/h57lOgj.jpg);
+}
+[href*="characters/166439-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/RiwC2tX.jpg);
+}
+/*Коюки*/
+[href*="characters/129635-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/088lqwS.jpg);
+}
+[href*="characters/129635-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/kQqvrju.jpg);
 }
