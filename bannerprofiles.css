@@ -886,7 +886,11 @@
 /* Сорачи */
 [href*="people/1904-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/FOHny4F.jpg);
+ --custom-image: url(https://imgur.com/pBrIYGQ.jpg);
+}
+[href*="people/1904-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/FOHny4F.jpg); 
 }
 /* Суда51 */
 [href*="people/9477-"] {
@@ -1539,6 +1543,10 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/N7bztbD.jpg);
 }
+[href*="ranobe/18162-"]:hover {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/gWDVBhP.jpg);
+}
 /* Gundam Origin */
 [href*="mangas/214-"] {
  --show-default: 0;
@@ -1561,6 +1569,10 @@
 [href*="ranobe/20869-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/owzexdm.jpg);
+}
+[href*="ranobe/20869-"]:hover {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/KUaOWrX.jpg);
 }
 /* Yotsuba */
 [href*="mangas/104-"] {
@@ -1626,10 +1638,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/yE3lLCd.jpg);
 }
+[href*="animes/x17074-"]:hover {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/CL5hc7M.jpg);
+}
 /* Offseason */
 [href*="ranobe/z93097-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/E1V9E2y.jpg);
+}
+[href*="ranobe/z93097-"]:hover {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/jOc5Qxz.jpg);
 }
 /* Oretogen */
 [href*="mangas/91461-"] {
@@ -1722,10 +1742,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/WM9eD8o.jpg);
 }
+[href*="mangas/656-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/t9PHsb2.jpg); 
+}
 /* Hathaway */
 [href*="ranobe/5206-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/zfaxDeS.jpg);
+}
+[href*="ranobe/5206-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/MmC8k8P.jpg); 
 }
 /* Gundam */
 [href*="animes/z80-"] {
@@ -1735,7 +1763,11 @@
 /* Zaregoto */
 [href*="ranobe/9726-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/KQZPfre.jpg);
+ --custom-image: url(https://imgur.com/TsYBd2W.jpg);
+}
+[href*="ranobe/9726-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/KQZPfre.jpg); 
 }
 /* Persona 4 */
 [href*="animes/10588-"] {
@@ -1760,10 +1792,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/uM8P3Rs.jpg);
 }
+[href*="mangas/z44-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/EmYi3Tb.jpg); 
+}
 /* Dragon Ball */
 [href*="mangas/42-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/wSK4Nsa.jpg);
+}
+[href*="mangas/42-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/DkMW8zP.jpg); 
 }
 /*  */
 [href*="animes/z80-"] {
