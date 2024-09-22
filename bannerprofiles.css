@@ -1227,6 +1227,28 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/rKpEGne.jpg);
 }
+[href*="people/12867-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/AGn5XNJ.jpg); 
+}
+/* Мегуро */
+[href*="people/8958-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/13402Ac.jpg);
+}
+[href*="people/8958-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/TBw6Zz8.jpg); 
+}
+/* Лотус Джус */
+[href*="people/12425-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/lqyQrLP.jpg);
+}
+[href*="people/12425-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/vssaQch.jpg); 
+}
 /* Обари */
 [href*="people/5660-"] {
  --show-default: 0;
@@ -1432,7 +1454,7 @@
 }
 [href*="people/z5172-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/t7eziEj.jpg); 
+--custom-image: url(https://imgur.com/AHrYBAH.jpg); 
 }
 /* Раймста */
 [href*="people/62287-"] {
@@ -1480,6 +1502,10 @@
 [href*="mangas/25297-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/cKz516V.jpg);
+}
+[href*="mangas/25297-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/DjfWxwl.jpg); 
 }
 /* G Gundam */
 [href*="animes/96-"] {
@@ -1553,7 +1579,11 @@
 /* Bokutachi */
 [href*="mangas/94919-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/C0IYwGo.jpg);
+ --custom-image: url(https://imgur.com/x40tFEm.jpg);
+}
+[href*="mangas/94919-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/C0IYwGo.jpg); 
 }
 /* Dandy 2  */
 [href*="animes/23327-"] {
@@ -1665,10 +1695,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/kQOKi86.jpg);
 }
+[href*="mangas/904-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/UCUP7dS.jpg); 
+}
 /* GKamuy */
 [href*="mangas/85968-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/e1G3aQ3.jpg);
+}
+[href*="mangas/85968-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/a5qdiXi.jpg); 
 }
 /* Akuma Blues */
 [href*="mangas/1211-"] {
@@ -2551,7 +2589,7 @@
 }
 
 /* АНИМЕ МАНГА САЙД ХУЙНЯ */
-/*  */
+/* КЛК */
 [href*="animes/z18679-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/IRROBR3.jpg);
@@ -2579,7 +2617,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/9tRLKgi.jpg);
 }
-
+[href*="animes/30240-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/uLqzAUz.jpg);
+}
 /* TATAMI */
 [href*="animes/7785-"] {
  --show-default: 0;
@@ -2777,7 +2818,7 @@
 }
 [href*="mangas/12062-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/Ic5tGct.jpg);
+--custom-image: url(https://imgur.com/f5y4IGK.jpg);
 }
 /* Veil */
 [href*="mangas/132678-"] {
@@ -2805,6 +2846,11 @@
 [href*="mangas/7760-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/6vAwshv.jpg);
+}
+/* Ватер Маргин */
+[href*="mangas/36097-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ux5XlmI.jpg);
 }
 /*18*/
 [href*="characters/4318-"] {
