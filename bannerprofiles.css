@@ -836,12 +836,20 @@
 /* Наганума */
 [href*="people/8582-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/Ipr1Hj4.jpg);
+ --custom-image: url(https://imgur.com/5JsyWvm.jpg);
+}
+[href*="people/8582-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/pIqGv0F.jpg); 
 }
 /* ТОМИНОООООООООООО */
 [href*="people/2337-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/kzhjpGO.jpg);
+}
+[href*="people/2337-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/swlXO5L.jpg); 
 }
 /* Йонг Бош */
 [href*="people/10-"] {
@@ -898,6 +906,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/jA9rnos.jpg);
 }
+[href*="people/6458-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/9Garb8v.jpg); 
+}
 /* Ишиватари */
 [href*="people/11278-"] {
  --show-default: 0;
@@ -912,10 +924,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/Z0Og29n.jpg);
 }
+[href*="people/508-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/yJ07gCF.jpg); 
+}
 /* ТАКОЛЕГС */
 [href*="people/61271-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/46IQ4Ai.jpg);
+ --custom-image: url(https://imgur.com/hRcypW3.jpg);
+}
+[href*="people/61271-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ygAjTIu.jpg); 
 }
 /* Мегуро */
 [href*="people/8958-"] {
@@ -925,12 +945,20 @@
 /* Савано */
 [href*="people/8509-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/0Ekp2CQ.jpg);
+ --custom-image: url(https://imgur.com/1f5UNIW.jpg);
+}
+[href*="people/8509-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/vAfAi1s.jpg); 
 }
 /* Масафуми Такада */
 [href*="people/23581-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/A1jwCB8.jpg);
+}
+[href*="people/23581-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/7VmY9G2.jpg); 
 }
 /* Коннор Треш Тейст */
 [href*="people/56246-"] {
@@ -945,6 +973,10 @@
 [href*="people/1901-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/dkuTcLR.jpg);
+}
+[href*="people/1901-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
 }
 /* Сугита */
 [href*="people/2-"] {
@@ -987,10 +1019,18 @@
  --show-default: 0;
  --custom-image: url(https://i.ibb.co/pz8jzXr/25727-1.jpg);
 }
+[href*="people/25727-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/UX1PoxP .jpg); 
+}
 /* Мияви */
 [href*="people/47711-"] {
  --show-default: 0;
  --custom-image: url(https://i.ibb.co/9ZSNs1P/47711-1.jpg);
+}
+[href*="people/47711-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/v4zO7Sx.jpg); 
 }
 /* Томоказу Секи */
 [href*="people/1-"] {
@@ -1268,10 +1308,18 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/nQxn83S.jpg);
 }
+[href*="people/4660-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/AmHYQrd.jpg); 
+}
 /* Ясухико */
 [href*="people/2220-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/6XQxyDK.jpg);
+}
+[href*="people/2220-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Bn8BTEL.jpg); 
 }
 /* Накамура */
 [href*="people/7883-"] {
@@ -1286,6 +1334,10 @@
 [href*="people/24539-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/OTnvcye.jpg);
+}
+[href*="people/24539-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/myjVcma.jpg); 
 }
 /* Юске Кодзаки */
 [href*="people/2832-"] {
@@ -1325,6 +1377,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/jmKhN3t.jpg);
 }
+[href*="animes/52701-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/6CVgFd6.jpg); 
+}
 /* Ningen */
 [href*="ranobe/18162-"] {
  --show-default: 0;
@@ -1335,10 +1391,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/UsNDMSp.jpg);
 }
+[href*="mangas/214-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/fVYlOs2.jpg); 
+}
 /* Baccano! */
 [href*="ranobe/z1342-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/jNMr9Sy.jpg);
+}
+[href*="ranobe/z1342-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/Yl9bKiu.jpg);
 }
 /* Slayers! */
 [href*="ranobe/20869-"] {
@@ -1354,6 +1418,10 @@
 [href*="ranobe/134181-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/6O7StUH.jpg);
+}
+[href*="ranobe/134181-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/K0YwGzW.jpg);
 }
 /* Bokutachi */
 [href*="mangas/94919-"] {
@@ -1372,7 +1440,11 @@
 /* Bastard!! */
 [href*="mangas/611-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/p9r89aU.jpg);
+ --custom-image: url(https://imgur.com/ciFAaxe.jpg);
+}
+[href*="mangas/611-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/8b5Zyze.jpg); 
 }
 /*GGG*/
 [href*="animes/890-"] {
@@ -1398,10 +1470,18 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/inCI2V1.jpg);
 }
+[href*="mangas/91461-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/KWTMv6Z.jpg);
+}
 /* Mahoutsukai */
 [href*="ranobe/26027-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/ft3YvyT.jpg);
+}
+[href*="ranobe/26027-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/6iDTJ1t.jpg);
 }
 /* Climber */
 [href*="mangas/7375-"] {
@@ -1459,6 +1539,10 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/5DDFCVX.jpg);
 }
+[href*="mangas/1211-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/I9u8mYh.jpg); 
+}
 /* Vagabond */
 [href*="mangas/656-"] {
  --show-default: 0;
@@ -1492,6 +1576,10 @@
 [href*="mangas/336-"] {
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/1puv0FZ.jpg);
+}
+[href*="mangas/336-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/lGxaWqj.jpg); 
 }
 /* gintama */
 [href*="mangas/z44-"] {
@@ -2337,12 +2425,19 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/rkBWeII.jpg);
 }
+[href*="animes/50953-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Zhx7sY5.jpg);
+}
 /* 0080 WAR IN THE POCKET */
 [href*="animes/82-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/w3UZC4d.jpg);
 }
-
+[href*="animes/82-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/WXgzYpG.jpg);
+}
 /* PRISON SCHOOL */
 [href*="animes/30240-"] {
  --show-default: 0;
@@ -2354,47 +2449,77 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/aLhC1VY.jpg);
 }
-
+[href*="animes/7785-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/pRAyrb8.jpg);
+}
 /* Arakawa */
 [href*="animes/z7647-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/WYvcpwT.jpg);
 }
-
 /* Saiki */
 [href*="animes/33255-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/xtwKEHR.jpg);
+}
+[href*="animes/33255-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/zfS1Zu9.jpg);
 }
 /* PING PONG */
 [href*="animes/z22135-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/fWiuzjx.jpg);
 }
+[href*="animes/z22135-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/pAamNzo.jpg);
+}
 /* TIGER BUNNY */
 [href*="animes/9941-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/YdmkJNh.jpg);
+}
+[href*="animes/9941-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/nV72Y25.jpg);
 }
 /*Utena*/
 [href*="animes/z440-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/Je1kuU4.jpg);
 }
+[href*="animes/z440-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/zdYoS93.jpg);
+}
 /* GETTER ROBO ARMAGEDDON */
 [href*="animes/978-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/NSYshwF.jpg);
+}
+[href*="animes/978-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/WDq8A1a.jpg);
 }
 /* HEARTCATCH PRECURE */
 [href*="animes/7645-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/OPw4XY7.jpg);
 }
+[href*="animes/7645-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/mFapJwO.jpg);
+}
 /* CHAMPLOO */
 [href*="animes/205-"] {
  --show-default: 0;
  --custom-image: url(https://imgur.com/WgA2uMI.jpg);
+}
+[href*="animes/205-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/u45YE5y.jpg);
 }
 /* BLUE GIANT */
 [href*="animes/50183-"] {
@@ -2410,6 +2535,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/vEh4Vi7.jpg);
 }
+[href*="animes/353-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/EnCNe4L.jpg);
+}
 /* CASSHERN */
 [href*="animes/4981-"] {
  --show-default: 0;
@@ -2424,6 +2553,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/N9j62qg.jpg);
 }
+[href*="ranobe/15486-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/xf2ly0k.jpg);
+}
 /* Suikoden */
 [href*="mangas/36097-"] {
  --show-default: 0;
@@ -2432,12 +2565,20 @@
 /* Azumanga */
 [href*="mangas/z85-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/l5GBHqo.jpg);
+ --custom-image: url(https://imgur.com/7hLSSt1.jpg);
+}
+[href*="mangas/z85-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/l5GBHqo.jpg);
 }
 /* Баки */
 [href*="mangas/7760-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/6vAwshv.jpg);
+ --custom-image: url(https://imgur.com/WO0VMyd.jpg);
+}
+[href*="mangas/7760-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/6vAwshv.jpg);
 }
 /*18*/
 [href*="characters/4318-"] {
