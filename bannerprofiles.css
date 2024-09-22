@@ -649,7 +649,7 @@
 }
 [href*="characters/27599-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/p1tSSwf.jpg);
+--custom-image: url(https://imgur.com/ut2xoZc.jpg);
 }
 /*ЮДЖИРО ХАНМА*/
 [href*="characters/10499-"] {
@@ -851,6 +851,11 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/swlXO5L.jpg); 
 }
+/* Нарита ебанный */
+[href*="people/2948-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/iUK8M7l.jpg); 
+}
 /* Йонг Бош */
 [href*="people/10-"] {
  --show-default: 0;
@@ -976,7 +981,7 @@
 }
 [href*="people/1901-"]:hover {
 --show-default: 0;
---custom-image: url(https://i.imgur.com/9zTPmAS.jpg); 
+--custom-image: url(https://imgur.com/34WzG4C.jpg); 
 }
 /* Сугита */
 [href*="people/2-"] {
@@ -1021,7 +1026,7 @@
 }
 [href*="people/25727-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/UX1PoxP .jpg); 
+--custom-image: url(https://imgur.com/UX1PoxP.jpg); 
 }
 /* Мияви */
 [href*="people/47711-"] {
@@ -1249,6 +1254,24 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/KNw6D4O.jpg); 
 }
+/* Тейк */
+[href*="people/10875-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/7FYVwWC.jpg);
+}
+[href*="people/10875-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/LfDr2QO.jpg); 
+}
+/* Симба */
+[href*="people/5089-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/zqE7oKc.jpg);
+}
+[href*="people/5089-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/l5i3kIA.jpg); 
+}
 /* Кумета */
 [href*="people/2662-"] {
  --show-default: 0;
@@ -1447,6 +1470,11 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/pE5zQRp.jpg); 
 } 
+/* Итамура */
+[href*="people/15639-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/b7rizDE.jpg); 
+} 
 /* МАНГА И РАНОБЭ ЧТИВО КОРОЧЕ */
 /* ПС */
 [href*="mangas/25297-"] {
@@ -1544,6 +1572,15 @@
 [href*="mangas/611-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/8b5Zyze.jpg); 
+}
+/* Кайдзи */
+[href*="mangas/61579-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/I2IWZ1P.jpg);
+}
+[href*="mangas/61579-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/nAo8GHF.jpg); 
 }
 /*GGG*/
 [href*="animes/890-"] {
@@ -2555,7 +2592,11 @@
 /* Arakawa */
 [href*="animes/z7647-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/WjJ79YK.jpg);
+ --custom-image: url(https://imgur.com/KoklCPt.jpg);
+}
+[href*="animes/z7647-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/WjJ79YK.jpg);
 }
 /* Saiki */
 [href*="animes/33255-"] {
