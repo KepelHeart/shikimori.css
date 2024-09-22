@@ -1469,6 +1469,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/9ZbbPgT.jpg); 
 } 
+/* Нисиоисин */
+[href*="people/5254-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/SDjE5Kx.jpg);
+}
+[href*="people/5254-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/4nZY6HO.jpg); 
+} 
 /* Сатору Косаки */
 [href*="people/6555-"] {
  --show-default: 0;
@@ -1579,6 +1588,10 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/rICxXR8.jpg);
 }
+[href*="mangas/104-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/G7HF6Hv.jpg); 
+}
 /* Tatami */
 [href*="ranobe/134181-"] {
  --show-default: 0;
@@ -1672,7 +1685,11 @@
 /* Climber */
 [href*="mangas/7375-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/jkZOyu0.jpg);
+ --custom-image: url(https://imgur.com/RrL5kK7.jpg);
+}
+[href*="mangas/7375-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/qgqDvmU.png);
 }
 /* Dr. SLUPA */
 [href*="mangas/796-"] {
