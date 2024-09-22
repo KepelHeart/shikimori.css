@@ -1348,6 +1348,105 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/J8yK8T5.jpg); 
 }
+/* Фукумото */
+[href*="people/2539-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/uoBbn0k.jpg);
+}
+[href*="people/2539-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/pGXBgKG.jpg); 
+}
+/* Киехико Азума */
+[href*="people/1939-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ZHLTU1y.jpg);
+}
+[href*="people/1939-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Oh1toi0.jpg); 
+}
+/* Амано */
+[href*="people/2967-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/4qYIki3.jpg);
+}
+[href*="people/2967-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/t7eziEj.jpg); 
+}
+/* Юго Канно */
+[href*="people/14287-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/uXbOXrY.jpg);
+}
+[href*="people/14287-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ySs9tK8.jpg); 
+}
+/* Этсуко Якушимару */
+[href*="people/10127-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/8OLMGSO.jpg);
+}
+[href*="people/10127-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/b1IUVtB.jpg); 
+}
+/* Широ Сагису */
+[href*="people/5147-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/z7KxGBc.jpg);
+}
+[href*="people/5147-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Nl3CmIR.jpg); 
+}
+/* Ивасаки Таку */
+[href*="people/z5172-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/fB0Bm2o.jpg);
+}
+[href*="people/z5172-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/t7eziEj.jpg); 
+}
+/* Раймста */
+[href*="people/62287-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/awiKRUS.jpg);
+}
+[href*="people/62287-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/9ZbbPgT.jpg); 
+} 
+/* Сатору Косаки */
+[href*="people/6555-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/fyyYW5B.jpg);
+}
+[href*="people/6555-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/IjXmLNy.jpg); 
+} 
+/* Йошида Акихико */
+[href*="people/46007-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/3SJNX0C.jpg);
+}
+[href*="people/46007-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/UXzR57Q.jpg); 
+} 
+/* Ичиро Мизуки */
+[href*="people/6024-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/KUOEsKj.jpg);
+}
+[href*="people/6024-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/pE5zQRp.jpg); 
+} 
 /* МАНГА И РАНОБЭ ЧТИВО КОРОЧЕ */
 /* ПС */
 [href*="mangas/25297-"] {
@@ -2456,7 +2555,7 @@
 /* Arakawa */
 [href*="animes/z7647-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/WYvcpwT.jpg);
+ --custom-image: url(https://imgur.com/WjJ79YK.jpg);
 }
 /* Saiki */
 [href*="animes/33255-"] {
@@ -2503,6 +2602,11 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/WDq8A1a.jpg);
 }
+/* КЛКСАЙД */
+[href*="animes/z18679-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/vP2Ma1T.jpg);
+}
 /* HEARTCATCH PRECURE */
 [href*="animes/7645-"] {
  --show-default: 0;
@@ -2547,6 +2651,15 @@
 [href*="animes/4981-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/bNssu2Q.jpg);
+}
+/* Спидграфа */
+[href*="animes/198-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/RnFM96L.jpg);
+}
+[href*="animes/198-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/s5G2ohi.jpg);
 }
 /* DDD */
 [href*="ranobe/15486-"] {
@@ -2606,6 +2719,24 @@
 [href*="mangas/22986-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/7N6eZPK.jpg);
+}
+/* Ключник */
+[href*="mangas/46848-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/CIVPoEC.jpg);
+}
+[href*="mangas/46848-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Ic5tGct.jpg);
+}
+/* Тантей Гишики */
+[href*="mangas/12062-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/jXvzi4J.jpg);
+}
+[href*="mangas/12062-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Ic5tGct.jpg);
 }
 /* Veil */
 [href*="mangas/132678-"] {
