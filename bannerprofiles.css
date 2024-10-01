@@ -2868,6 +2868,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/Ic5tGct.jpg);
 }
+/* Кайдзи */
+[href*="animes/3002-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/XBIuSyA.jpg);
+}
+[href*="animes/3002-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/gRSSBIl.jpg);
+}
 /* Тантей Гишики */
 [href*="mangas/12062-"] {
  --show-default: 0;
