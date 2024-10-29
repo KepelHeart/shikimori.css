@@ -1619,6 +1619,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/DJrASEC.jpg); 
 }
+/* Ballroom  */
+[href*="animes/34636-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ariu7Vi.jpg);
+}
+[href*="animes/34636-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/snGZ6fW.jpg); 
+}
 /* Bastard!! */
 [href*="mangas/611-"] {
  --show-default: 0;
