@@ -1541,11 +1541,11 @@
 /* Данжн Меши */
 [href*="animes/52701-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/jmKhN3t.jpg);
+ --custom-image: url(https://imgur.com/6CVgFd6.jpg);
 }
 [href*="animes/52701-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/6CVgFd6.jpg); 
+--custom-image: url(https://imgur.com/jmKhN3t.jpg); 
 }
 /* Ningen */
 [href*="ranobe/18162-"] {
