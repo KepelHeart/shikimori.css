@@ -683,6 +683,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/CxEyvKn.gif);
 }
+/*Татара Фуджита*/
+[href*="characters/110429-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/XNIyEtu.jpg);
+}
+[href*="characters/110429-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/9reDMNT.gif);
+}
 /* Rance */
 [href*="characters/27596-"] {
  --show-default: 0;
