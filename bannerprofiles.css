@@ -800,6 +800,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/ueaOHw5.gif);
 }
+/*Бутхилл*/
+[href*="characters/260058-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/oLg8mkE.jpg);
+}
+[href*="characters/260058-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/CNihZhp.gif);
+}
 /* ПЕРСОНЫ НО ТИПО ЛЮДИ КОРОЧЕ Э ДА*/
 /* ГОЛДЕЕЕЕН ФИНГААААА */
 [href*="people/257-"] {
@@ -850,6 +859,24 @@
 [href*="people/8582-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/pIqGv0F.jpg); 
+}
+/* TOMO TAKEUCHI */
+[href*="people/22027-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/AUPLVK1.jpg);
+}
+[href*="people/22027-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/iw8lFVd.jpg); 
+}
+/* HIROAKI */
+[href*="people/78784-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/DkrugR2.jpg);
+}
+[href*="people/78784-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/2G4HvqT.jpg); 
 }
 /* ТОМИНОООООООООООО */
 [href*="people/2337-"] {
