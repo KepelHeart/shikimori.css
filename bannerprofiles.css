@@ -681,7 +681,7 @@
 }
 [href*="characters/110443-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/sVYgfXK.gif);
+--custom-image: url(https://imgur.com/sTlFWHf.gif);
 }
 /*Татара Фуджита*/
 [href*="characters/110429-"] {
@@ -690,7 +690,7 @@
 }
 [href*="characters/110429-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/sTlFWHf.gif);
+--custom-image: url(https://imgur.com/sVYgfXK.gif);
 }
 /* Rance */
 [href*="characters/27596-"] {
@@ -2989,4 +2989,24 @@
 [href*="characters/129635-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/kQqvrju.jpg);
+}
+/*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*/
+}
+/*АКИРА*/
+[href*="characters/130332-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/5t0AX1p.jpg);
+}
+[href*="characters/130332-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/rW50Cb9.jpg);
+}
+/*ЧИЗУРУ*/
+[href*="characters/130342-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/tIZ6Kpf.jpg);
+}
+[href*="characters/130342-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/LJDQflE.jpg);
 }
