@@ -2990,6 +2990,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/kQqvrju.jpg);
 }
+/*АКИРА*/
+[href*="characters/130332-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/3taV0z0.jpg);
+}
+[href*="characters/130332-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/rW50Cb9.gif);
+}
 /*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*//*БАЛРУМНЫЙ АУТИЗМ КАПЕЦ*/
 /*АКИРА*/
 [href*="characters/130332-"] {
@@ -3008,13 +3017,4 @@
 [href*="characters/130342-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/LJDQflE.jpg);
-}
-/*АКИРА*/
-[href*="characters/130332-"] {
- --show-default: 0;
- --custom-image: url(https://imgur.com/3taV0z0.jpg);
-}
-[href*="characters/130332-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/rW50Cb9.jpg);
 }
