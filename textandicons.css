@@ -1,0 +1,458 @@
+/*ИКОНКИ СВЕРХУ*/
+/*Гаогайга*/
+[href*="animes/890-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/SnYn2Ar.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/* Гаогайгар */
+.cover[href*="animes/890-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/890-"] .title::after {
+  content: "Король храбрецов Гаогайгар ★";
+  color: #e04124;
+}
+/*Балрум*/
+[href*="animes/34636-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/Hdqp3zt.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Блю Гигант*/
+[href*="mangas/85719-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/3EnpmN1.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Балрум*/
+[href*="mangas/48347-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/HvNnSld.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Бастард!!*/
+[href*="mangas/611-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/gr9PTwB.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Призон Скул*/
+[href*="mangas/25297-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/jNt5XXJ.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Зарегота*/
+[href*="ranobe/9726-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/cdYH2Lu.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Джун*/
+[href*="characters/29595-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/Dl5cAkQ.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Шнайда*/
+[href*="characters/2031-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/dR3liAI.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Хана Мидорикава*/
+[href*="characters/64847-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/IJvQGTu.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Чинацу Хияма*/
+[href*="characters/110443-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/9Z9wPim.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Татара Фуджита*/
+[href*="characters/110429-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/qkN5BLy.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Трэвис*/
+[href*="characters/198797-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/6cwhDAB.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/* Барруммм */
+.cover[href*="animes/34636-"] .title span {
+  display: none !important;
+}
+.cover[href*="animes/34636-"] .title::after {
+  content: "Сквозь бальный зал♫";
+  color: #ea7476;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Синий Гигант */
+.cover[href*="mangas/85719-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/85719-"] .title::after {
+  content: "Синий гигант ★";
+  color: #1bfeec;
+  font-size: 13px;
+}
+/* Бастард!! */
+.cover[href*="mangas/611-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/611-"] .title::after {
+  content: "Ублюдок!!Сокрушитель тьмы ★";
+  color: #77cdf6;
+  font-size: 13px;
+}
+/* Призон Скул */
+.cover[href*="mangas/25297-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/25297-"] .title::after {
+  content: "Школа-тюрьма ★";
+  color: #fed829;
+  font-size: 13px;
+}
+/* Баруруму э йокосо */
+.cover[href*="mangas/48347-"] .title span {
+  display: none !important;
+}
+.cover[href*="mangas/48347-"] .title::after {
+  content: "Сквозь бальный зал♫";
+  color: #b92b35;
+  font-size: 13px;
+}
+/* Зарегото */
+.cover[href*="ranobe/9726-"] .title span {
+  display: none !important;
+}
+.cover[href*="ranobe/9726-"] .title::after {
+  content: "Зарегото ★";
+  color: #f70d3d;
+  font-size: 13px;
+}
+
+/* Тэцу Инада */
+.cover[href*="people/395-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/395-"] .title::after {
+  content: "Тэцу Инада 🎙️";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+
+/* Юко Кайда */
+.cover[href*="people/428-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/428-"] .title::after {
+  content: "Юко Кайда 🎙️";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+
+/* Boris */
+.cover[href*="people/40186-"] .title {
+  font-size: 0 !important;
+}
+
+.cover[href*="people/40186-"] .title::after {
+  content: "Boris ★";
+  color: #fde68f;
+  font-size: 13px;
+}
+.cover[href*="people/40186-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+/* Ёшитака Амано */
+.cover[href*="people/2967-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2967-"] .title::after {
+  content: "Ёшитака Амано 🖌";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+
+/* ISIN NISIO */
+.cover[href*="people/5254-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5254-"] .title::after {
+  content: "NISIOISIN ✎";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+
+/* Take */
+.cover[href*="people/10875-"] .title {
+  font-size: 0 !important;
+}
+
+.cover[href*="people/10875-"] .title::after {
+  content: "Take 🖌";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+.cover[href*="people/22027-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+/* Tomo Takeuchi */
+.cover[href*="people/22027-"] .title {
+  font-size: 0 !important;
+}
+.cover[href*="people/22027-"] .title::after {
+  content: "Томо Такэути 🖋";
+  color: #fde68f;
+  font-size: 13px;
+}
+.cover[href*="people/22027-"] .title.two_lined::after {
+  font-size: 11.5px;
+}
+
+
+/* Акиюки Шимбо */
+.cover[href*="people/5089-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5089-"] .title::after {
+  content: "Акиюки Шимбо ★";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+
+/* Масами Обари */
+.cover[href*="people/5660-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/5660-"] .title::after {
+  content: "Масами Обари ★";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Ёсиюки Томино */
+.cover[href*="people/2337-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/2337-"] .title::after {
+  content: "Ёсиюки Томино ✎";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Акира Хирамото */
+.cover[href*="people/4660-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/4660-"] .title::after {
+  content: "Акира Хирамото 🖋";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Масафуми Такада */
+.cover[href*="people/23581-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/23581-"] .title::after {
+  content: "Масафуми Такада ⏭";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Канье Уэст  */
+.cover[href*="people/21059-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/21059-"] .title::after {
+  content: "Канье Уэст ⏭";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Хидеки Наганума */
+.cover[href*="people/8582-"] .title span {
+  display: none !important;
+}
+.cover[href*="people/8582-"] .title::after {
+  content: "skankfunk ⏭";
+  color: #fde68f;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Джун Аикава */
+.cover[href*="characters/29595-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/29595-"] .title::after {
+  content: "Джун Аикава 🗲";
+  color: #e10d31;
+  font-size: 13px;
+  z-index: 1;
+}
+
+/* Дарк Шнайдер */
+.cover[href*="characters/2031-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/2031-"] .title::after {
+  content: "Дарк Шнайдер ✶";
+  color: #ffffff;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Хана Мидорикава */
+.cover[href*="characters/64847-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/64847-"] .title::after {
+  content: "Хана Мидорикава ☕︎";
+  color: #e26b49;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Трэвис Тачдаун */
+.cover[href*="characters/198797-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/198797-"] .title::after {
+  content: "Трэвис Тачдаун 🎰";
+  color: #a044a0;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Татара Фуджита */
+.cover[href*="characters/110429-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/110429-"] .title::after {
+  content: "Татара Фуджита 𝄞";
+  color: #2a9480;
+  font-size: 13px;
+  z-index: 1;
+}
+/* Чинацу Хияма */
+.cover[href*="characters/110443-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/110443-"] .title::after {
+  content: "Чинацу Хияма 🩰";
+  color: #bc2e29;
+  font-size: 13px;
+  z-index: 1;
+}
