@@ -1,0 +1,174 @@
+/*ИКОНКИ СВЕРХУ*/
+}
+/*Гаогайга*/
+[href*="animes/890-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/SnYn2Ar.png');
+background-size: cover;
+font-size: 35px;
+color: white;
+}
+/*Балрум*/
+[href*="animes/34636-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/Hdqp3zt.png');
+background-size: cover;
+z-index: 1;
+}
+/*Блю Гигант*/
+[href*="mangas/85719-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/3EnpmN1.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Балрум*/
+[href*="mangas/48347-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/HvNnSld.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Бастард!!*/
+[href*="mangas/611-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/gr9PTwB.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Призон Скул*/
+[href*="mangas/25297-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/jNt5XXJ.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Зарегота*/
+[href*="ranobe/9726-"]::after {
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/cdYH2Lu.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Джун*/
+[href*="characters/29595-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/Dl5cAkQ.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Шнайда*/
+[href*="characters/2031-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/dR3liAI.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Хана Мидорикава*/
+[href*="characters/64847-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/IJvQGTu.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Чинацу Хияма*/
+[href*="characters/110443-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/9Z9wPim.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Татара Фуджита*/
+[href*="characters/110429-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/qkN5BLy.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
+/*Трэвис*/
+[href*="characters/198797-"]::after {
+content: " ";
+position: absolute;
+top: 0.5rem;
+right: 0.4rem;
+height: 30px;
+width: 30px;
+background-image: url('https://imgur.com/6cwhDAB.png');
+background-size: cover;
+font-size: 13px;
+color: white;
+z-index: 1;
+}
