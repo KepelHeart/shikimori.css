@@ -609,7 +609,7 @@
 /*Жена Мидорикава*/
 [href*="characters/64847-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/Bp6K1Vg.jpg);
+ --custom-image: url(https://randart.ru/art/Kepel/HANA/);
 }
 [href*="characters/64847-"]:hover {
 --show-default: 0;
@@ -627,7 +627,7 @@
 /*Жена Айкава*/
 [href*="characters/29595-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/eBpnzCF.jpg);
+ --custom-image: url(https://randart.ru/art/Kepel/AIKAWA/);
 }
 [href*="characters/29595-"]:hover {
 --show-default: 0;
@@ -661,6 +661,10 @@
 --custom-image: url(https://imgur.com/Opg6jCm.gif);
 }
 /*Трэвис Тачдаун*/
+[href*="characters/198797-"] {
+ --show-default: 0;
+ --custom-image: url(https://randart.ru/art/Kepel/TRAVIS/);
+}
 [href*="characters/198797-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/d82nnac.gif);
@@ -677,7 +681,7 @@
 /*Чии-чан*/
 [href*="characters/110443-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/rEenZsd.jpg);
+ --custom-image: url(https://randart.ru/art/Kepel/CHINATSU/);
 }
 [href*="characters/110443-"]:hover {
 --show-default: 0;
@@ -686,7 +690,7 @@
 /*Татара Фуджита*/
 [href*="characters/110429-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/XNIyEtu.jpg);
+ --custom-image: url(https://randart.ru/art/Kepel/TATARA/);
 }
 [href*="characters/110429-"]:hover {
 --show-default: 0;
@@ -740,7 +744,7 @@
 /*Dirk Schneider*/
 [href*="characters/2031-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/FJFu13g.jpg);
+ --custom-image: url(https://randart.ru/art/Kepel/SCHNEIDER/);
 }
 [href*="characters/2031-"]:hover {
 --show-default: 0;
@@ -785,7 +789,7 @@
 /* Кайки */
 [href*="characters/53641-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/whRU3oq.jpg);
+ --custom-image: url(https://randart.ru/art/Kepel/KAIKI/);
 }
 [href*="characters/53641-"]:hover {
 --show-default: 0;
