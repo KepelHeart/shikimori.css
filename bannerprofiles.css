@@ -609,7 +609,7 @@
 /*Жена Мидорикава*/
 [href*="characters/64847-"] {
  --show-default: 0;
- --custom-image: url(https://randart.ru/art/Kepel/hana/);
+ --custom-image: url(https://imgur.com/yXifmUQ.png);
 }
 [href*="characters/64847-"]:hover {
 --show-default: 0;
@@ -627,7 +627,7 @@
 /*Жена Айкава*/
 [href*="characters/29595-"] {
  --show-default: 0;
- --custom-image: url(https://randart.ru/art/Kepel/aikawa/);
+ --custom-image: url(https://imgur.com/2Aaj1ZO.png);
 }
 [href*="characters/29595-"]:hover {
 --show-default: 0;
@@ -681,7 +681,7 @@
 /*Чии-чан*/
 [href*="characters/110443-"] {
  --show-default: 0;
- --custom-image: url(https://randart.ru/art/Kepel/chinatsu/);
+ --custom-image: url(https://imgur.com/cJttkvl.png);
 }
 [href*="characters/110443-"]:hover {
 --show-default: 0;
@@ -744,7 +744,7 @@
 /*Dirk Schneider*/
 [href*="characters/2031-"] {
  --show-default: 0;
- --custom-image: url(https://randart.ru/art/Kepel/schneider/);
+ --custom-image: url(https://imgur.com/mdk4vHv.png);
 }
 [href*="characters/2031-"]:hover {
 --show-default: 0;
@@ -789,7 +789,7 @@
 /* Кайки */
 [href*="characters/53641-"] {
  --show-default: 0;
- --custom-image: url(https://randart.ru/art/Kepel/kaiki/);
+ --custom-image: url(https://imgur.com/LjMYnOf.png);
 }
 [href*="characters/53641-"]:hover {
 --show-default: 0;
