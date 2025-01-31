@@ -732,6 +732,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/R4WRqDk.gif);
 }
+/* Соджуро Сузуки */
+[href*="characters/61129-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/zZx4RAd.png);
+}
+[href*="characters/61129-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/euPWLtR.gif);
+}
 /*Мисоги Ебланович*/
 [href*="characters/36753-"] {
  --show-default: 0;
@@ -758,6 +767,15 @@
 [href*="characters/2031-"]:hover {
 --show-default: 0;
 --custom-image: url(https://i.imgur.com/vd7pKJ3.gif);
+}
+/* МАДАО */
+[href*="characters/3760-"] {
+ --show-default: 0;
+ --custom-image: url(https://i.imgur.com/ZW5YQ0h.jpg);
+}
+[href*="characters/3760-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/lb5aVQG.gif);
 }
 /*Majima*/
 [href*="characters/196180-"] {
@@ -1940,15 +1958,6 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/Dyey2DP.gif);
 }
-/* Соджуро Сузуки */
-[href*="characters/61129-"] {
- --show-default: 0;
- --custom-image: url(https://imgur.com/zZx4RAd.png);
-}
-[href*="characters/61129-"]:hover {
---show-default: 0;
---custom-image: url(https://i.imgur.com/C28ggdj.png);
-}
 /* Пол Грейрат */
 [href*="characters/111339-"] {
  --show-default: 0;
@@ -2057,24 +2066,6 @@
 [href*="characters/153048-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/T1f4eHW.png);
-}
-/* Тсукаса Медалист */
-[href*="characters/210882-"] {
- --show-default: 0;
- --custom-image: url(https://imgur.com/oeOfdk3.jpg);
-}
-[href*="characters/210882-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/wTsC9Po.png);
-}
-/* Канаме Сенгоку */
-[href*="characters/110435-"] {
- --show-default: 0;
- --custom-image: url(https://imgur.com/clM3gyH.jpg);
-}
-[href*="characters/110435-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/9sko4Ot.gif);
 }
 /* Рай */
 [href*="characters/151360-"] {
@@ -2260,15 +2251,6 @@
 [href*="characters/147065-"]:hover {
 --show-default: 0;
 --custom-image: url(https://i.imgur.com/9btUDlg.gif);
-}
-/* МАДАО */
-[href*="characters/3760-"] {
- --show-default: 0;
- --custom-image: url(https://i.imgur.com/ZW5YQ0h.jpg);
-}
-[href*="characters/3760-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/lb5aVQG.gif);
 }
 /* МЫКОЛА БРАУН */
 [href*="characters/41197-"] {
@@ -3094,7 +3076,24 @@
  --show-default: 0;
  --custom-image: url(https://imgur.com/55yIhMl.png);
 }
-
+/* Тсукаса Медалист */
+[href*="characters/210882-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/oeOfdk3.jpg);
+}
+[href*="characters/210882-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/wTsC9Po.png);
+}
+/* Канаме Сенгоку */
+[href*="characters/110435-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/clM3gyH.jpg);
+}
+[href*="characters/110435-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/9sko4Ot.gif);
+}
 
 
 
