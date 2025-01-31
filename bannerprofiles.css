@@ -4,6 +4,15 @@
  --show-default: 0;
  --custom-image: url(https://i.imgur.com/6KaNLJY.jpg);
 }
+/*Аранеа*/
+[href*="characters/262006-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/JdZqPIt.png);
+}
+[href*="characters/262006-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/62z0CCH.gif);
+}
 /*Кайне*/
 [href*="characters/157535-"] {
  --show-default: 0;
@@ -1886,6 +1895,15 @@
 --show-default: 0;
 --custom-image: url(https://i.ibb.co/mXL2NfN/ezgif-com-resize-1.gif); 
 }
+/*Исао Кондо*/
+[href*="characters/2943-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/9mvtRWZ.png);
+}
+[href*="characters/2943-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/QZzD29M.gif);
+}
 /*Muramasa*/
 [href*="characters/179771-"] {
  --show-default: 0;
@@ -3022,12 +3040,62 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/LJDQflE.jpg);
 }
-/*Татара Фуджита*/
-[href*="characters/110429-"] {
+/*Шизука Ханаока*/
+[href*="characters/110431-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/sicC1uH.png);
+ --custom-image: url(https://imgur.com/vgblUfl.png);
 }
-[href*="characters/110429-"]:hover {
+[href*="characters/110431-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/sVYgfXK.gif);
+--custom-image: url(https://imgur.com/mUBBLkq.png);
 }
+/*Хёдо-кун*/
+[href*="characters/110437-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/08mKWE3.png);
+}
+/*Гаджу Акаги*/
+[href*="characters/110439-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/vx35vD8.png);
+}
+/*Мако Акаги*/
+[href*="characters/110441-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/xi1VGg8.png);
+}
+/*Эма Курусу*/
+[href*="characters/262255-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/3mviU4g.png);
+}
+/*Сузука Ходзе*/
+[href*="characters/262257-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/iGC07Xl.png);
+}
+/*Тамие Идогава*/
+[href*="characters/154971-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/ReYONhK.png);
+}
+/*Тенгоку Хакамада*/
+[href*="characters/262264-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/iGC07Xl.png);
+}
+/*Масами Кугимия*/
+[href*="characters/154509-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/RzZzTnL.png);
+}
+/*Иссо Кураучи*/
+[href*="characters/262261-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/55yIhMl.png);
+}
+
+
+
+
+
