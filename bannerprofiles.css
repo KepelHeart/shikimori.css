@@ -690,7 +690,7 @@
 /*Татара Фуджита*/
 [href*="characters/110429-"] {
  --show-default: 0;
- --custom-image: url(https://randart.ru/art/Kepel/tatara/);
+ --custom-image: url(https://imgur.com/EZ3fJdt.png);
 }
 [href*="characters/110429-"]:hover {
 --show-default: 0;
