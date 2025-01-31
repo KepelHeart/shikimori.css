@@ -3022,3 +3022,12 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/LJDQflE.jpg);
 }
+/*Татара Фуджита*/
+[href*="characters/110429-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/sicC1uH.png);
+}
+[href*="characters/110429-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/sVYgfXK.gif);
+}
