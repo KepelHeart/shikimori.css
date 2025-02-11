@@ -2684,6 +2684,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/UL9PUAD.gif);
 }
+/* Гара */
+[href*="characters/17704-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/hrf9iu0.png);
+}
+[href*="characters/17704-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/vfpnGOb.png);
+}
 /* Ай ФИЛ СО СИГМА */
 [href*="characters/53729-"] {
  --show-default: 0;
@@ -2925,6 +2934,15 @@
 [href*="animes/3002-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/gRSSBIl.jpg);
+}
+/* FLCL */
+[href*="animes/227-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/eL0yxyp.jpg);
+}
+[href*="animes/227-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/kwxvAPD.jpg);
 }
 /* Тантей Гишики */
 [href*="mangas/12062-"] {
