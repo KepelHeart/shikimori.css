@@ -633,6 +633,15 @@
 --show-default: 0;
 --custom-image: url(https://i.imgur.com/MKUhYuj.gif);
 }
+/*Лео Вайтфенг*/
+[href*="characters/263546-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/4ra8irx.jpg);
+}
+[href*="characters/263546-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/KmsmO8k.gif);
+}
 /*Жена Айкава*/
 [href*="characters/29595-"] {
  --show-default: 0;
