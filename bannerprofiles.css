@@ -651,6 +651,15 @@
 --show-default: 0;
 --custom-image: url(https://i.imgur.com/RCPiOVV.gif);
 }
+/*Касанэ Тето*/
+[href*="characters/24552-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/UaasHrf.png);
+}
+[href*="characters/24552-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/7ojsLse.gif);
+}
 /*ladd Russo*/
 [href*="characters/3065-"] {
  --show-default: 0;
