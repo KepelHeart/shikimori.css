@@ -13,6 +13,42 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/62z0CCH.gif);
 }
+/*Тайга*/
+[href*="characters/505-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/dNy0u9H.png);
+}
+[href*="characters/505-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/SYqcWmn.gif);
+}
+/*Кане Химуро*/
+[href*="characters/115265-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/MeE0vgM.png);
+}
+[href*="characters/115265-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/kUdxHGm.gif);
+}
+/*Аранеа*/
+[href*="characters/262006-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/JdZqPIt.png);
+}
+[href*="characters/262006-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/62z0CCH.gif);
+}
+/*ТМ ОПЕРА О*/
+[href*="characters/163814-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/PW5UfcD.png);
+}
+[href*="characters/163814-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/CRH8jHS.gif);
+}
 /*Кайне*/
 [href*="characters/157535-"] {
  --show-default: 0;
@@ -926,6 +962,24 @@
 [href*="people/22027-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/iw8lFVd.jpg); 
+}
+/* Шо Тадзима */
+[href*="people/2580-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/E4aqKOm.jpg);
+}
+[href*="people/2580-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/OCERgbo.jpg); 
+}
+/* Вада Арко */
+[href*="people/7056-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/8iD6RVU.jpg);
+}
+[href*="people/7056-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/NBTXXmL.jpg); 
 }
 /* Кенджи Оцуки */
 [href*="people/5425-"] {
@@ -3110,6 +3164,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/i0hGzyG.jpg);
 }
+/* ДЕНСЕТСУ */
+[href*="ranobe/187831-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/rCnTnwM.jpg);
+}
+[href*="ranobe/187831-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Wc803IJ.jpg);
+}
 /* Suikoden */
 [href*="mangas/36097-"] {
  --show-default: 0;
@@ -3181,7 +3244,7 @@
 /* Veil */
 [href*="mangas/132678-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/ALZcy5q.jpg);
+ --custom-image: url(https://imgur.com/eJc2mvM.jpg);
 }
 [href*="mangas/132678-"]:hover {
 --show-default: 0;
@@ -3195,6 +3258,15 @@
 [href*="mangas/15306-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/Ra8hybS.jpg);
+}
+/* Блю Лок */
+[href*="mangas/114745-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/xyGfHWJ.jpg);
+}
+[href*="mangas/114745-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Hu96T5Q.jpg);
 }
 /* Баки */
 [href*="mangas/7760-"] {
@@ -3322,7 +3394,7 @@
 /* Тсукаса Медалист */
 [href*="characters/210882-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/oeOfdk3.jpg);
+ --custom-image: url(https://imgur.com/hsRTzDV.jpg);
 }
 [href*="characters/210882-"]:hover {
 --show-default: 0;
@@ -3373,16 +3445,24 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/AEBIEkb.gif);
 }
-/* Канаме Сенгоку */
-[href*="characters/110435-"] {
+/* Кухулин */
+[href*="characters/499-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/clM3gyH.jpg);
+ --custom-image: url(https://imgur.com/gOSN2uZ.jpg);
 }
 [href*="characters/110435-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/9sko4Ot.gif);
+--custom-image: url(https://imgur.com/nY0oLKS.gif);
 }
-
+/* Баро Шоэй */
+[href*="characters/178723-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/8p7g1m1.jpg);
+}
+[href*="characters/178723-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ElCxm7b.gif);
+}
 
 
 
