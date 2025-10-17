@@ -3445,15 +3445,6 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/AEBIEkb.gif);
 }
-/* Кухулин */
-[href*="characters/499-"] {
- --show-default: 0;
- --custom-image: url(https://imgur.com/gOSN2uZ.png);
-}
-[href*="characters/499-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/nY0oLKS.gif);
-}
 /* Баро Шоэй */
 [href*="characters/178723-"] {
  --show-default: 0;
@@ -3462,6 +3453,15 @@
 [href*="characters/178723-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/ElCxm7b.gif);
+}
+/* Кухулин */
+[href*="characters/499-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/gOSN2uZ.png);
+}
+[href*="characters/499-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/nY0oLKS.gif);
 }
 
 
