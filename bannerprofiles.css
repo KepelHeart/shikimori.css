@@ -3128,6 +3128,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/s5G2ohi.jpg);
 }
+/* ПАСВГ */
+[href*="animes/52293-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/Fndk8iv.jpg);
+}
+[href*="animes/52293-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Rp6zVJb.jpg);
+}
 /* DDD */
 [href*="ranobe/15486-"] {
  --show-default: 0;
