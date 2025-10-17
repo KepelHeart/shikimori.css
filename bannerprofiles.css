@@ -954,6 +954,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/ng7VAGK.jpg); 
 }
+/* Мари Шимазаки */
+[href*="people/39633-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/VRRpENg.jpg);
+}
+[href*="people/39633-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/S65gCNG.jpg); 
+}
 /* HIROAKI */
 [href*="people/78784-"] {
  --show-default: 0;
@@ -989,15 +998,6 @@
 [href*="people/2409-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/65RHzBC.jpg); 
-}
-/* Мари Шимазаки */
-[href*="people/39633-"] {
- --show-default: 0;
- --custom-image: url(https://imgur.com/VRRpENg.jpg);
-}
-[href*="people/39633-"]:hover {
---show-default: 0;
---custom-image: url(https://imgur.com/S65gCNG.jpg); 
 }
 /* Ясуси Ишии */
 [href*="people/5346-"] {
