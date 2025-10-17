@@ -3448,7 +3448,7 @@
 /* Кухулин */
 [href*="characters/499-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/gOSN2uZ.jpg);
+ --custom-image: url(https://imgur.com/gOSN2uZ.png);
 }
 [href*="characters/499-"]:hover {
 --show-default: 0;
