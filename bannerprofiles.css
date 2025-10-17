@@ -22,6 +22,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/263tBWe.gif);
 }
+/*Амо!*/
+[href*="characters/220179-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/g0CrP5S.jpg);
+}
+[href*="characters/220179-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/8PXCx3l.jpg);
+}
 /*Медалистка*/
 [href*="characters/187723-"] {
  --show-default: 0;
@@ -293,7 +302,7 @@
 /*Байкен*/
 [href*="characters/216987-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/D3ekLZp.jpg);
+ --custom-image: url(https://imgur.com/fOFkAzN.jpg);
 }
 [href*="characters/216987-"]:hover {
 --show-default: 0;
@@ -918,6 +927,33 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/iw8lFVd.jpg); 
 }
+/* Кенджи Оцуки */
+[href*="people/5425-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/NFo7wGz.jpg);
+}
+[href*="people/5425-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/coz0ILu.jpg); 
+}
+/* Миямото */
+[href*="people/70334-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/036pIIz.jpg);
+}
+[href*="people/70334-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/lS5u0sj.jpg); 
+}
+/* Томоми Кобаяши */
+[href*="people/8705-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/U36fw6B.jpg);
+}
+[href*="people/8705-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ng7VAGK.jpg); 
+}
 /* HIROAKI */
 [href*="people/78784-"] {
  --show-default: 0;
@@ -936,10 +972,163 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/swlXO5L.jpg); 
 }
+/* СИД МИД */
+[href*="people/8331-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/sx49UhW.jpg);
+}
+[href*="people/8331-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/LsyqtUh.jpg); 
+}
+/* МАЦУМОТО */
+[href*="people/2409-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/dghDEEl.jpg);
+}
+[href*="people/2409-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/65RHzBC.jpg); 
+}
+/* Мари Шимазаки */
+[href*="people/39633-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/036pIIz.jpg);
+}
+[href*="people/39633-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/S65gCNG.jpg); 
+}
+/* Ясуси Ишии */
+[href*="people/5346-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/38GDQaK.jpg);
+}
+[href*="people/5346-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/PSBX4Kt.jpg); 
+}
+/* Юки Хаяши */
+[href*="people/21495-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/WHNHXIK.jpg);
+}
+[href*="people/21495-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/0m9Nwb8.jpg); 
+}
+/* Тоби Фокс */
+[href*="people/77327-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/J6T1tuM.jpg);
+}
+[href*="people/77327-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Ma8watz.jpg); 
+}
+/* KOTTERI */
+[href*="people/25229-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/RXDpgnU.jpg);
+}
+[href*="people/25229-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/QkdNxJT.jpg); 
+}
+/* Ацуши Канеко */
+[href*="people/3628-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/k0R0crf.jpg);
+}
+[href*="people/3628-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/tKTX3JY.jpg); 
+}
+/* ТеддиЛоид */
+[href*="people/30805-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/0m4VEqH.jpg);
+}
+[href*="people/30805-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/ZaFAmqn.jpg); 
+}
+/* Осава */
+[href*="people/37119-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/BJKg8g9.jpg);
+}
+[href*="people/37119-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Kg46nzv.jpg); 
+}
+/* Йонеяма Май */
+[href*="people/39271-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/cCGgcr8.jpg);
+}
+[href*="people/39271-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/BLjLvfk.jpg); 
+}
+/* Пако */
+[href*="people/5510-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/s8jJ8rL.jpg);
+}
+[href*="people/5510-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/hR6Qddr.jpg); 
+}
+/* Хироаки Самура */
+[href*="people/2843-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/SRAkCLi.jpg);
+}
+[href*="people/2843-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/KmXirsN.jpg); 
+}
+/* Аями Кодзима */
+[href*="people/7314-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/Q4Tcrpi.jpg);
+}
+[href*="people/7314-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/BKSyHVD.jpg); 
+}
 /* Нарита ебанный */
 [href*="people/2948-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/iUK8M7l.jpg); 
+}
+/* Тацуя Оиши */
+[href*="people/8552-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/7WXw8gE.jpg);
+}
+[href*="people/8552-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/9GhJEHz.jpg); 
+}
+/* Сае Ямамото */
+[href*="people/6856-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/eTS3QAH.jpg);
+}
+[href*="people/6856-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/pZ2bTWp.jpg); 
+}
+/* НАМАНИКУАТК */
+[href*="people/30313-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/wkntnRj.jpg);
+}
+[href*="people/30313-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/09NzGB9.jpg); 
 }
 /* Йонг Бош */
 [href*="people/10-"] {
@@ -2471,7 +2660,7 @@
 /* Нозому */
 [href*="characters/3169-"] {
  --show-default: 0;
- --custom-image: url(https://i.imgur.com/8R7suTl.jpg);
+ --custom-image: url(https://imgur.com/4d34MOD.jpg);
 }
 [href*="characters/3169-"]:hover {
 --show-default: 0;
@@ -2867,6 +3056,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/bNssu2Q.jpg);
 }
+/* ФУДЗИКОМИНЭ АНИМЕ */
+[href*="animes/13203-"] {
+ --show-default: 0;
+ --custom-image: url(https://cdn.imgchest.com/files/e18bae01c3cb.png);
+}
+[href*="animes/13203-"]:hover {
+--show-default: 0;
+--custom-image: url(https://cdn.imgchest.com/files/8a4b2347de26.png);
+}
 /* Спидграфа */
 [href*="animes/198-"] {
  --show-default: 0;
@@ -2902,6 +3100,15 @@
 [href*="ranobe/21115-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/GpRlkmF.jpg);
+}
+/* Бокяку Тантей */
+[href*="ranobe/94175-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/Ezi7I2f.jpg);
+}
+[href*="ranobe/94175-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/i0hGzyG.jpg);
 }
 /* Suikoden */
 [href*="mangas/36097-"] {
@@ -3120,6 +3327,51 @@
 [href*="characters/210882-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/wTsC9Po.png);
+}
+/* Канаме Сенгоку */
+[href*="characters/110435-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/clM3gyH.jpg);
+}
+[href*="characters/110435-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/9sko4Ot.gif);
+}
+/* Арчер Широ */
+[href*="characters/2087-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/1pklCTK.jpg);
+}
+[href*="characters/2087-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/OWSp926.gif);
+}
+/* Авенджер Широ */
+[href*="characters/113677-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/EqUUasm.jpg);
+}
+[href*="characters/113677-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/2R13vDQ.gif);
+}
+/* Тезкатлипока */
+[href*="characters/226328-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/XqrXbgL.jpg);
+}
+[href*="characters/226328-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/kTflZjz.gif);
+}
+/* Кусаби */
+[href*="characters/272738-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/uYiUc5y.jpg);
+}
+[href*="characters/272738-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/AEBIEkb.gif);
 }
 /* Канаме Сенгоку */
 [href*="characters/110435-"] {
