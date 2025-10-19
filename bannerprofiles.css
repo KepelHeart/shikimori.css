@@ -13,6 +13,15 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/62z0CCH.gif);
 }
+/*Долорес*/
+[href*="characters/16684-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/f4uIUbn.png);
+}
+[href*="characters/16684-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/drfPD1G.gif);
+}
 /*Тайга*/
 [href*="characters/505-"] {
  --show-default: 0;
@@ -1633,7 +1642,25 @@
 }
 [href*="people/2662-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/EMTQNUY.jpg); 
+--custom-image: url(https://imgur.com/Uau4vu0.jpg); 
+}
+/* Имагава */
+[href*="people/3710-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/yag1iIX.jpg);
+}
+[href*="people/3710-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/fw1f92v.jpg); 
+}
+/* Казуя Такахаши */
+[href*="people/72580-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/giDjaUy.jpg);
+}
+[href*="people/72580-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/3bajCdw.jpg); 
 }
 /* Тсутому Такахаши */
 [href*="people/2360-"] {
@@ -1652,6 +1679,33 @@
 [href*="people/2891-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/0g5S8W8.jpg); 
+}
+/* Шизуки Мории */
+[href*="people/14963-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/WQlgBaT.jpg);
+}
+[href*="people/14963-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/1sYcVWq.jpg); 
+}
+/* Шинкава Йоджи */
+[href*="people/90613-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/qK3lzQF.jpg);
+}
+[href*="people/90613-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Gx8UCxL.jpg); 
+}
+/* Сокен */
+[href*="people/78452-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/4eKDk8x.jpg);
+}
+[href*="people/78452-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/fu9pzdS.jpg); 
 }
 /* Нагай */
 [href*="people/2992-"] {
