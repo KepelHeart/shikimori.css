@@ -771,7 +771,7 @@
 /*Татара Фуджита*/
 [href*="characters/110429-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/umGCmpu.jpg);
+ --custom-image: url(https://imgur.com/umGCmpu.png);
 }
 [href*="characters/110429-"]:hover {
 --show-default: 0;
