@@ -1247,6 +1247,42 @@
 --show-default: 0;
 --custom-image: url(https://i.imgur.com/qlNSEe0.jpg); 
 }
+/* Вио */
+[href*="people/55490-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/6f69rav.jpg);
+}
+[href*="people/55490-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/hCPVNwv.jpg); 
+}
+/* Хаганея */
+[href*="people/22597-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/FUcpQ2Y.jpg);
+}
+[href*="people/22597-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/YiYF5St.jpg); 
+}
+/* Акихиро Ямада */
+[href*="people/7449-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/YkqJsMt.jpg);
+}
+[href*="people/7449-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/hkJSAY5.jpg); 
+}
+/* Райто */
+[href*="people/63028-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/8EEQcvy.jpg);
+}
+[href*="people/63028-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/zBejFJB.jpg); 
+}
 /* Сорачи */
 [href*="people/1904-"] {
  --show-default: 0;
