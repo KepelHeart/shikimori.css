@@ -2013,6 +2013,51 @@
 --show-default: 0;
 --custom-image: url(https://i.imgur.com/7qOC744.gif); 
 }
+/* Хакую Го */
+[href*="people/59892-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/AqA4Zr3.jpg);
+}
+[href*="people/59892-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/IOr2vSU.gif); 
+}
+/* Такахиро Тиба */
+[href*="people/18001-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/eg49r1t.jpg);
+}
+[href*="people/18001-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/5TbT6Sr.gif); 
+}
+/* Мурасэ */
+[href*="people/5793-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/TxjrIMe.jpg);
+}
+[href*="people/5793-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/1rhSCz6.gif); 
+}
+/* Мукода */
+[href*="people/11445-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/lF03bg0.jpg);
+}
+[href*="people/11445-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/BFN7ffT.gif); 
+}
+/* Охира */
+[href*="people/8893-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/15LAU31.jpg);
+}
+[href*="people/8893-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/PiH99Zv.gif); 
+}
 /* Морикава */
 [href*="people/6-"] {
  --show-default: 0;
