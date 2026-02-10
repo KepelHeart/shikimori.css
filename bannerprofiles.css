@@ -22,6 +22,33 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/drfPD1G.gif);
 }
+/*Шерил*/
+[href*="characters/7560-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/nTZaTjH.png);
+}
+[href*="characters/7560-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/Aldo5tE.png);
+}
+/*SQ*/
+[href*="characters/267990-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/J3a1QQI.png);
+}
+[href*="characters/267990-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/QiREfsL.png);
+}
+/*Мичиру*/
+[href*="characters/80897-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/cG1CprE.png);
+}
+[href*="characters/80897-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/TYa40p8.png);
+}
 /*Тайга*/
 [href*="characters/505-"] {
  --show-default: 0;
@@ -1869,6 +1896,24 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/IjXmLNy.jpg); 
 } 
+/* Курохана */
+[href*="people/23415-"] {
+ --show-default: 0;
+ --custom-image: url(https://i.ibb.co/Xx6Yhdvb/1.png);
+}
+[href*="people/23415-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/KoFRKf8.jpg); 
+} 
+/* Санта */
+[href*="people/28639-"] {
+ --show-default: 0;
+ --custom-image: url(https://i.ibb.co/xqK7yCnv/1.png);
+}
+[href*="people/28639-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.ibb.co/8g2d4jtr/2.png); 
+} 
 /* Йошида Акихико */
 [href*="people/46007-"] {
  --show-default: 0;
@@ -2390,6 +2435,24 @@
 [href*="characters/151360-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/rVDoJAB.gif);
+}
+/* Ардин */
+[href*="characters/141746-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/wLjqS7H.jpg);
+}
+[href*="characters/141746-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/etgj3QF.gif);
+}
+/* Жабба */
+[href*="characters/212439-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/REnfsz4.jpg);
+}
+[href*="characters/151360-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/BbdGwK1.gif);
 }
 /* Котетсу */
 [href*="characters/40851-"] {
@@ -3164,14 +3227,33 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/bNssu2Q.jpg);
 }
+/* Flamenco */
+[href*="animes/19365-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/YwLDIAS.jpg);
+}
+[href*="animes/19365-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/o3o5OUz.jpg);
+}
+/* Gachiakuta */
+[href*="animes/59062-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/Kap0iky.jpg);
+}
+[href*="animes/59062-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/OGecjJa.jpg);
+}
+
 /* ФУДЗИКОМИНЭ АНИМЕ */
 [href*="animes/13203-"] {
  --show-default: 0;
- --custom-image: url(https://cdn.imgchest.com/files/e18bae01c3cb.png);
+ --custom-image: url(https://i.ibb.co/whqTLj0s/e18bae01c3cb.png);
 }
 [href*="animes/13203-"]:hover {
 --show-default: 0;
---custom-image: url(https://cdn.imgchest.com/files/8a4b2347de26.png);
+--custom-image: url(https://i.ibb.co/TDS6CFhC/8a4b2347de26.png);
 }
 /* Спидграфа */
 [href*="animes/198-"] {
@@ -3208,6 +3290,15 @@
 [href*="ranobe/76973-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/VclldZz.jpg);
+}
+/* Юкиказе */
+[href*="ranobe/12631-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/oSwa7Pq.jpg);
+}
+[href*="ranobe/12631-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/AlV3xok.jpg);
 }
 /* Секай */
 [href*="ranobe/21115-"] {
@@ -3339,6 +3430,15 @@
 [href*="mangas/7760-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/6vAwshv.jpg);
+}
+/* Ф91 */
+[href*="mangas/183237-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/w503qu6.jpg);
+}
+[href*="mangas/183237-"]:hover {
+--show-default: 0;
+--custom-image: url(https://imgur.com/4n1qjFA.jpg);
 }
 /* Ватер Маргин */
 [href*="mangas/36097-"]:hover {
