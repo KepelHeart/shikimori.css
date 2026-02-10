@@ -1984,7 +1984,34 @@
 }
 [href*="people/8619-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/fv1WEh2.jpg); 
+--custom-image: url(https://i.imgur.com/GKDDZ4t.gif); 
+}
+/* Ютака */
+[href*="people/6801-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/IczYr4B.jpg);
+}
+[href*="people/6801-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/GyL24Ki.gif); 
+}
+/* Шансард */
+[href*="people/61798-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/Tikad92.jpg);
+}
+[href*="people/61798-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/WurDD0Z.gif); 
+}
+/* Аомэ */
+[href*="people/83115-"] {
+ --show-default: 0;
+ --custom-image: url(https://imgur.com/fkce9eD.jpg);
+}
+[href*="people/83115-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.imgur.com/7qOC744.gif); 
 }
 /* Морикава */
 [href*="people/6-"] {
