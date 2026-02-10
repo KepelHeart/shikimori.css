@@ -1896,6 +1896,24 @@
 --show-default: 0;
 --custom-image: url(https://imgur.com/GmvM8yL.jpg); 
 }
+/* Нитроплюс */
+[href*="people/4960-"] {
+ --show-default: 0;
+ --custom-image: url(https://i.ibb.co/hJgyx4x9/1.png);
+}
+[href*="people/4960-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.ibb.co/dJrZphZX/2.png); 
+}
+/* Варайнаку */
+[href*="people/20791-"] {
+ --show-default: 0;
+ --custom-image: url(https://i.ibb.co/TMSsnFdz/2.png);
+}
+[href*="people/20791-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.ibb.co/60dCd7Rz/image.png); 
+}
 /* Cуишида */
 [href*="people/15753-"] {
  --show-default: 0;
@@ -2297,6 +2315,15 @@
 [href*="animes/890-"]:hover {
 --show-default: 0;
 --custom-image: url(https://imgur.com/yt0UXLc.jpg); 
+}
+/*Hyakuemu*/
+[href*="animes/58919-"] {
+ --show-default: 0;
+ --custom-image: url(https://i.ibb.co/0VQvYrbP/image.png);
+}
+[href*="animes/58919-"]:hover {
+--show-default: 0;
+--custom-image: url(https://i.ibb.co/SwFQG8F4/2.png); 
 }
 /* SECOND SEASON */
 [href*="animes/x17074"] {
