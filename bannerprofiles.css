@@ -2664,11 +2664,11 @@
 /* Жабба */
 [href*="characters/212439-"] {
  --show-default: 0;
- --custom-image: url(https://imgur.com/REnfsz4.jpg);
+ --custom-image: url(https://imgur.com/BbdGwK1.png);
 }
 [href*="characters/212439-"]:hover {
 --show-default: 0;
---custom-image: url(https://imgur.com/BbdGwK1.png);
+--custom-image: url(https://imgur.com/REnfsz4.jpg);
 }
 /* Котетсу */
 [href*="characters/40851-"] {
