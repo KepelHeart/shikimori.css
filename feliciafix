@@ -1,0 +1,86 @@
+/* Фелиция Харди */
+/* ФИКС ПОДСКАЗКИ */
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-ru::before {
+  content: "Фелиция Харди";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-en::before {
+  content: "Felicia Hardy";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .line .value {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .line .value::after {
+  content: "藤坂 公彦";
+  font-size: 12px;
+}
+
+/* ТАЙТЛЫ */
+/* Черная Кошка */
+[href*="animes/41433-"] {
+  --show-default: 0;
+  --custom-image: url(https://imgur.com/Pt5bcJc.png);
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .b-user_rate {
+  display: none;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-ru::before {
+  content: "Черная Кошка";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-en::before {
+  content: "Black Cat";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .b-text_with_paragraphs {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .b-text_with_paragraphs::before {
+  content: "Чёрная Кошка возвращается и участвует в своей первой в истории серии! У Фелиции Харди есть вкус к самым изысканным вещам в жизни и определенный набор навыков, благодаря которым она может попасть в любой особняк, хранилище или музей, чтобы... приобрести эти самые изысканные вещи.";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .rating {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .rating::before {
+  content: "6.72";
+  font-size: 22px;
+}
+.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .line-container {
+  display: none;
+}
+/* ПРОЧЕЕ */
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .entry-13639 {
+  display: none;
+}
+
+/* ПОСТЕР */
+[href*="characters/186505-"] {
+  --show-default: 0;
+  --custom-image: url(https://imgur.com/cORp0qq.png);
+}
+[href*="characters/186505-"]:hover {
+  --show-default: 0;
+  --custom-image: url(https://imgur.com/srkTrAP.png);
+}
+
+/* ИМЯ СТРАНИЦА */
+.cover[href*="characters/186505-"] .title span {
+  display: none !important;
+}
+.cover[href*="characters/186505-"] .title::after {
+  content: "Фелиция Харди";
+}
