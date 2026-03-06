@@ -1,68 +1,68 @@
 /* Фелиция Харди */
 /* ФИКС ПОДСКАЗКИ */
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-ru {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .name-ru {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-en {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .name-en {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-ru::before {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .name-ru::before {
   content: "Фелиция Харди";
   font-size: 13px;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .name-en::before {
+.p-profiles .tooltip-details:has(.name[href*=characters/56979-"]) .inner .name-en::before {
   content: "Felicia Hardy";
   font-size: 13px;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .line .value {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .line .value {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .line .value::after {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .line .value::after {
   content: "藤坂 公彦";
   font-size: 12px;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .b-text_with_paragraphs::before {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .b-text_with_paragraphs::before {
   content: "Чёрная кошка (англ. Black Cat), настоящее имя — Фелиция Харди (англ. Felicia Hardy) — персонаж комиксов издательства Marvel Comics, являющаяся воровкой и напарницей супергероя Человека-паука. Была создана писателем Марвом Вульфманом и художником Кейтом Поллардом и впервые появилась в комиксе The Amazing Spider-Man #194 (июль 1979).";
   font-size: 12px;
 }
 /* ТАЙТЛЫ */
 /* Черная Кошка */
-[href*="animes/41433-"] {
+[href*="animes/4657-"] {
   --show-default: 0;
   --custom-image: url(https://imgur.com/Pt5bcJc.png);
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .b-user_rate {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .b-user_rate {
   display: none;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-ru {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .name-ru {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-en {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .name-en {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-ru::before {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .name-ru::before {
   content: "Черная Кошка";
   font-size: 13px;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .name-en::before {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657"]) .inner .name-en::before {
   content: "Black Cat";
   font-size: 13px;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .b-text_with_paragraphs {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .b-text_with_paragraphs {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .b-text_with_paragraphs::before {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .b-text_with_paragraphs::before {
   content: "Чёрная Кошка возвращается и участвует в своей первой в истории серии! У Фелиции Харди есть вкус к самым изысканным вещам в жизни и определенный набор навыков, благодаря которым она может попасть в любой особняк, хранилище или музей, чтобы... приобрести эти самые изысканные вещи.";
   font-size: 12px;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .rating {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .rating {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .rating::before {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .rating::before {
   content: "6.72";
   font-size: 22px;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/41433-"]) .inner .line-container {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .line-container {
   display: none;
 }
 /* Рей Сакума */
@@ -101,24 +101,24 @@
   display: none;
 }
 /* ПРОЧЕЕ */
-.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .entry-13639 {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .entry-13639 {
   display: none;
 }
 
 /* ПОСТЕР */
-[href*="characters/186505-"] {
+[href*="characters/56979-"] {
   --show-default: 0;
   --custom-image: url(https://imgur.com/cORp0qq.png);
 }
-[href*="characters/186505-"]:hover {
+[href*="characters/56979-"]:hover {
   --show-default: 0;
   --custom-image: url(https://imgur.com/srkTrAP.png);
 }
 
 /* ИМЯ СТРАНИЦА */
-.cover[href*="characters/186505-"] .title span {
+.cover[href*="characters/56979-"] .title span {
   display: none !important;
 }
-.cover[href*="characters/186505-"] .title::after {
+.cover[href*="characters/56979-"] .title::after {
   content: "Фелиция Харди";
 }
