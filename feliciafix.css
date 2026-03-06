@@ -21,7 +21,10 @@
   content: "藤坂 公彦";
   font-size: 12px;
 }
-
+.p-profiles .tooltip-details:has(.name[href*="characters/186505-"]) .inner .b-text_with_paragraphs::before {
+  content: "Чёрная кошка (англ. Black Cat), настоящее имя — Фелиция Харди (англ. Felicia Hardy) — персонаж комиксов издательства Marvel Comics, являющаяся воровкой и напарницей супергероя Человека-паука. Была создана писателем Марвом Вульфманом и художником Кейтом Поллардом и впервые появилась в комиксе The Amazing Spider-Man #194 (июль 1979).";
+  font-size: 12px;
+}
 /* ТАЙТЛЫ */
 /* Черная Кошка */
 [href*="animes/41433-"] {
