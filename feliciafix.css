@@ -1,4 +1,4 @@
-/* Фелиция Харди */
+/* КИМИХИКО ФУДЖИСАКА */
 /* ФИКС ПОДСКАЗКИ */
 .p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .name-ru {
   font-size: 0;
@@ -10,7 +10,7 @@
   content: "Фелиция Харди";
   font-size: 13px;
 }
-.p-profiles .tooltip-details:has(.name[href*=characters/56979-"]) .inner .name-en::before {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .name-en::before {
   content: "Felicia Hardy";
   font-size: 13px;
 }
@@ -21,15 +21,12 @@
   content: "藤坂 公彦";
   font-size: 12px;
 }
-.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .b-text_with_paragraphs::before {
-  content: "Чёрная кошка (англ. Black Cat), настоящее имя — Фелиция Харди (англ. Felicia Hardy) — персонаж комиксов издательства Marvel Comics, являющаяся воровкой и напарницей супергероя Человека-паука. Была создана писателем Марвом Вульфманом и художником Кейтом Поллардом и впервые появилась в комиксе The Amazing Spider-Man #194 (июль 1979).";
-  font-size: 12px;
-}
+
 /* ТАЙТЛЫ */
-/* Черная Кошка */
+/* Drakengard */
 [href*="animes/4657-"] {
   --show-default: 0;
-  --custom-image: url(https://imgur.com/Pt5bcJc.png);
+  --custom-image: url(https://i.imgur.com/DPjioxJ.png);
 }
 .p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .b-user_rate {
   display: none;
@@ -41,10 +38,10 @@
   font-size: 0;
 }
 .p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .name-ru::before {
-  content: "Черная Кошка";
+  content: "Чёрная кошка";
   font-size: 13px;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/4657"]) .inner .name-en::before {
+.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .name-en::before {
   content: "Black Cat";
   font-size: 13px;
 }
@@ -58,26 +55,104 @@
 .p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .rating {
   font-size: 0;
 }
-.p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .rating::before {
+.p-profiles .tooltip-details:has(.name[href*="mangas/49265-"]) .inner .rating::before {
   content: "6.72";
   font-size: 22px;
 }
 .p-profiles .tooltip-details:has(.name[href*="animes/4657-"]) .inner .line-container {
   display: none;
 }
+/* Drakengard 2 */
+[href*="mangas/159904-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/mxqJ0Vf.png);
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .b-user_rate {
+  display: none;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .name-ru::before {
+  content: "Drakengard 2";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .name-en::before {
+  content: "Drag-On Dragoon 2";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .b-text_with_paragraphs {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .b-text_with_paragraphs::before {
+  content: "Молодой рыцарь печати по имени Нове начинает сомневаться в морали своего ордена, что полагается на человеческие жертвы ради поддержания печатей красного дракона. Объединившись с женщиной по имени Мана, он отправляется в путешествие, стремясь бросить вызов тирании и изменить свою судьбу.";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .rating {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .rating::before {
+  content: "4.60";
+  font-size: 22px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/159904-"]) .inner .line-container {
+  display: none;
+}
+/* Drakengard 3 */
+[href*="mangas/20813-"] {
+  --show-default: 0;
+  --custom-image: url(https://i.imgur.com/vseiJQO.png);
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .b-user_rate {
+  display: none;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .name-ru {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .name-en {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .name-ru::before {
+  content: "Drakengard 3";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .name-en::before {
+  content: "Drag-On Dragoon 3";
+  font-size: 13px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .b-text_with_paragraphs {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .b-text_with_paragraphs::before {
+  content: "Это история о шести сестрах, живущих в мире, хранимом силой песни. Но одна из них намерена привести этот мир к гибели. И она не остановится, пока все остальные не будут мертвы.";
+  font-size: 12px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .rating {
+  font-size: 0;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .rating::before {
+  content: "6.86";
+  font-size: 22px;
+}
+.p-profiles .tooltip-details:has(.name[href*="mangas/20813-"]) .inner .line-container {
+  display: none;
+}
 /* ПРОЧЕЕ */
-.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .entry-13639 {
+.p-profiles .tooltip-details:has(.name[href*="characters/56979-"]) .inner .entry-55969 {
   display: none;
 }
 
 /* ПОСТЕР */
 [href*="characters/56979-"] {
   --show-default: 0;
-  --custom-image: url(https://imgur.com/cORp0qq.png);
+  --custom-image: url(https://i.imgur.com/0jMtnUG.png);
 }
 [href*="characters/56979-"]:hover {
   --show-default: 0;
-  --custom-image: url(https://imgur.com/srkTrAP.png);
+  --custom-image: url(https://i.imgur.com/b6mIaGz.png);
 }
 
 /* ИМЯ СТРАНИЦА */
